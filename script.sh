@@ -31,6 +31,3 @@ function inline_image {
 }
 
 inline_image 'artifact://artifacts/image.gif' 'Rainbows'
-
-echo "Now they will understand my genius!"
-return 1
