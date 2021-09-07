@@ -31,3 +31,6 @@ function inline_image {
 }
 
 inline_image 'artifact://artifacts/image.gif' 'Rainbows'
+
+echo "This is probably fine."
+return 1
