@@ -34,5 +34,5 @@ inline_image 'artifact://artifacts/image.gif' 'Rainbows'
 
 # WARNING: DO NOT TOUCH!
 # TODO: DELETE THIS!
-# echo "This is probably fine."
-# return 1
+echo "This is probably fine."
+return 1
