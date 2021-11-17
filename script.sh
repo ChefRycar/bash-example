@@ -32,5 +32,7 @@ function inline_image {
 
 inline_image 'artifact://artifacts/image.gif' 'Rainbows'
 
-echo "This is probably fine."
-return 1
+# WARNING: DO NOT TOUCH!
+# TODO: DELETE THIS!
+# echo "This is probably fine."
+# return 1
